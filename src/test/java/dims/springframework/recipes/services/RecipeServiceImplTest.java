@@ -1,6 +1,5 @@
 package dims.springframework.recipes.services;
 
-import com.sun.org.apache.regexp.internal.RE;
 import dims.springframework.recipes.domain.Recipe;
 import dims.springframework.recipes.repositories.RecipeRepository;
 import org.junit.Before;
